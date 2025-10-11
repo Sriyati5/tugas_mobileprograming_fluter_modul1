@@ -1,3 +1,3 @@
-# aplikasi_flutter_pertamaku
-
-A new Flutter project.
+Nama    : SRIYATI
+NIM     : STI202303700
+TUGAS MOBILE PROGRAMMING FLUTER MODUL 2
